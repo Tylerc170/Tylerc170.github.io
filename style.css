@@ -1,0 +1,28 @@
+
+
+#content { 
+    width: 73% ;
+
+}
+
+body  {
+   margin: 0;
+    background-color: black;
+    color: #4bc5de;
+}
+header {
+    padding:20px;
+    background-color:whitesmoke ;
+    color:black;
+    font-family:Arial;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 36px;
+    letter-spacing: .09em;
+   
+    
+    color: #000;
+}
+
+
+}
